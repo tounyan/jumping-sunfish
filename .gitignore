@@ -1,0 +1,7 @@
+/.vscode/*
+/bin/*
+#Ignore all logs
+/logs/*
+/obj/*
+#Ignore all resources for copyright reason
+/Resources/*
