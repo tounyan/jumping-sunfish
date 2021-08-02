@@ -2,7 +2,7 @@
 
 To see a preview of the game play: https://www.youtube.com/watch?v=Tt5pQBSUECk
 
-This is my first introductory project at Deakin University to C# (and Object-Oriented Programming in general). Jumping Sunfish is a Flapping Bird:tm: copy cat game utilising the SplashKit library. Player uses the space bar to move a sunfish vertically, getting point by navigating seaweeds and poison, finding pearl and eating shrimp. The game comes with 3 levels: Easy - Medium - Hard.
+This is my first introductory project at Deakin University to C# (and Object-Oriented Programming in general). Jumping Sunfish is a FlappyBird copycat game utilising the SplashKit library. Player uses the space bar to move a sunfish vertically, getting point by navigating seaweeds and poison, finding pearl and eating shrimp. The game comes with 3 levels: Easy - Medium - Hard.
 
 ## Getting started
 
